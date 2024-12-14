@@ -1,0 +1,20 @@
+
+Report Summary:
+1-->Popular Dishes:
+1)The most popular dishes are Spaghetti and Grilled Chicken each are having 4 orders.
+2)Caesar Salad is also popular with 3 orders.
+
+2-->Average Duration of Cooking Sessions:
+1)Grilled Chicken has the longest average cooking session duration of 42.5 minutes.
+2)Spaghetti has an average cooking session duration of 35 minutes.
+3)Caesar Salad has the shortest average cooking session duration of 21.7 minutes.
+4)pancake has an average cooking session duration of 35 minutes.
+
+3-->Demographic Factors Influencing User Behavior:
+1)Users aged 40-50 have the highest average number of orders.
+2)Users aged 20-30 and 30-40 have a lower average number of orders compared to the 40-50 age group.
+
+Business Recommendations:
+1)Focus on promoting popular dishes like Spaghetti and Grilled Chicken to attract more customer.
+2)Consider offering quick meal options like Caesar Salad to cater to users looking for shorter cooking sessions.
+3)Target marketing efforts towards users aged 30-40, as they have the highest average number of orders.
